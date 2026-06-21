@@ -1,0 +1,1 @@
+{"name":"valquiz-backend","private":true,"type":"module","scripts":{"dev":"node --watch src/server.js","start":"node src/server.js","check":"node --check src/server.js"},"dependencies":{"cors":"^2.8.5","dotenv":"^16.4.7","express":"^4.21.2","helmet":"^8.0.0","redis":"^4.7.0","socket.io":"^4.8.1"}}
